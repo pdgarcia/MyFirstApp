@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="share_button">Share</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="menu_new">New</string>
+    <string name="menu_save">Save</string>
+    <string name="set_country">Set Country</string>
+    <string name="countrydefaulttext">Selected Country</string>
+    <string name="regional_options">Regional Options</string>
+    <string name="set_country_desc">Select Preferred Country</string>
+    <string name="no_country_selected">No Country Selected</string>
+    <string name="button_notif1">Notif 1</string>
+    <string name="button_notif2">Notif 2</string>
+    <string name="message_list_header">List of Messages</string>
+</resources>

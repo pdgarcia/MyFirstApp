@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primer Aplicación</string>
+    <string name="edit_message">Ingrese un Mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">Actividad Principal</string>
+    <string name="title_activity_display_message">Mi Mensaje</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="share_button">Compartir</string>
+	<string name="on">Enc</string>
+    <string name="off">Apg</string>
+    <string name="menu_new">Nuevo</string>
+    <string name="menu_save">Guardar</string>
+    <string name="set_country">Indicar País</string>
+    <string name="countrydefaulttext">País Seleccionado</string>
+    <string name="regional_options">Opciones Regionales</string>
+    <string name="set_country_desc">Seleccionar País de Preferencia</string>
+    <string name="no_country_selected">No hay País Seleccionado</string>
+    <string name="button_notif1">Notificación 1</string>
+    <string name="button_notif2">Notificación 2</string>
+    <string name="message_list_header">Lista de Mensajes</string>
+</resources>
